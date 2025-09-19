@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+camelot-py[cv]
+pandas
+requests
+openpyxl
+xlrd
+numpy
